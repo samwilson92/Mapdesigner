@@ -1,5 +1,5 @@
 {
-  "name": "color-manipulation",
+  "name": "stamen",
   "dependencies": {
     "ol": "8.1.0"
   },
